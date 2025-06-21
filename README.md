@@ -6,7 +6,7 @@ Automatize a remoção de amigos do Facebook com Puppeteer. Ideal para quem dese
 
 ## ✨ Funcionalidades
 
-- Login automatizado no Facebook
+- Login manual no Facebook
 - Acesso à lista de amigos
 - Remoção automática de contatos
 - Lógica de filtragem personalizável
